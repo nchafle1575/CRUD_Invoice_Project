@@ -56,6 +56,19 @@
 			<version>2.0.3</version>
 		</dependency>
 
+<!--		&lt;!&ndash; https://mvnrepository.com/artifact/org.jsondoc/spring-boot-starter-jsondoc &ndash;&gt;-->
+<!--		<dependency>-->
+<!--			<groupId>org.jsondoc</groupId>-->
+<!--			<artifactId>spring-boot-starter-jsondoc</artifactId>-->
+<!--			<version>1.2.19</version>-->
+<!--		</dependency>-->
+<!--		&lt;!&ndash; https://mvnrepository.com/artifact/org.jsondoc/jsondoc-ui-webjar &ndash;&gt;-->
+<!--		<dependency>-->
+<!--			<groupId>org.jsondoc</groupId>-->
+<!--			<artifactId>jsondoc-ui-webjar</artifactId>-->
+<!--			<version>1.2.19</version>-->
+<!--		</dependency>-->
+
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
